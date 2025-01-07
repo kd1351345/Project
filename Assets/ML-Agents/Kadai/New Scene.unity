@@ -459,7 +459,7 @@ MonoBehaviour:
     VectorActionDescriptions: []
     VectorActionSpaceType: 1
     hasUpgradedBrainParametersWithActionSpec: 1
-  m_Model: {fileID: 5022602860645237092, guid: fed46498fbb0fe74fafcbb8be4374042, type: 3}
+  m_Model: {fileID: 5022602860645237092, guid: f54cd89e96c0e6342bf9560e3c54238b, type: 3}
   m_InferenceDevice: 0
   m_BehaviorType: 0
   m_BehaviorName: BallChaser
