@@ -216,6 +216,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ground: {fileID: 1509779968}
+  margin: 5
+  collisionCooldown: 2
 --- !u!135 &734213647
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -457,7 +459,7 @@ MonoBehaviour:
     VectorActionDescriptions: []
     VectorActionSpaceType: 1
     hasUpgradedBrainParametersWithActionSpec: 1
-  m_Model: {fileID: 5022602860645237092, guid: 07c1e31c3ca067a408d456612dbbb3fd, type: 3}
+  m_Model: {fileID: 5022602860645237092, guid: fed46498fbb0fe74fafcbb8be4374042, type: 3}
   m_InferenceDevice: 0
   m_BehaviorType: 0
   m_BehaviorName: BallChaser
@@ -890,6 +892,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ground: {fileID: 1509779968}
+  margin: 5
+  collisionCooldown: 2
 --- !u!135 &1531842306
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -1147,6 +1151,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ground: {fileID: 1509779968}
+  margin: 5
+  collisionCooldown: 2
 --- !u!135 &1661813119
 SphereCollider:
   m_ObjectHideFlags: 0

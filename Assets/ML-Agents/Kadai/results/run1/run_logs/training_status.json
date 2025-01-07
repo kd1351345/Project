@@ -1,0 +1,29 @@
+{
+    "BallChaser": {
+        "checkpoints": [
+            {
+                "steps": 500172,
+                "file_path": "results\\run1\\BallChaser\\BallChaser-500172.onnx",
+                "reward": 1.5831332928255986,
+                "creation_time": 1736227782.6626399,
+                "auxillary_file_paths": [
+                    "results\\run1\\BallChaser\\BallChaser-500172.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 500172,
+            "file_path": "results\\run1\\BallChaser.onnx",
+            "reward": 1.5831332928255986,
+            "creation_time": 1736227782.6626399,
+            "auxillary_file_paths": [
+                "results\\run1\\BallChaser\\BallChaser-500172.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.1.0.dev0",
+        "torch_version": "2.5.1+cpu"
+    }
+}
