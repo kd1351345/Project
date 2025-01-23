@@ -15,4 +15,4 @@
 
 プロジェクトファイル
 Assets内のML-AgentsフォルダのKadaiの中に入っているNewSceneで制作しました
-
+final.onnxとしてエクスポートしてます。
